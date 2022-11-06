@@ -38,6 +38,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
       <li><a href="https://github.com/crystal-linux/amethyst">Amethyst</a></li>
       <li><a href="https://github.com/eneshecan/whatsapp-for-linux">Whatsapp for Linux</a></li>
       <li><a href="https://github.com/nlogozzo/NickvisionMoney">Money</a></li>
+      <li><a href="https://github.com/yattee/yattee">Yattee</a></li>
     </ul>
 </details>
 </div>

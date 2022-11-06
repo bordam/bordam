@@ -14,7 +14,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
   
 
   ### Arch User Repository
-  I maintain a bunch of packages in the Arch User Repository, mostly GNOME-related software. Click [here](https://aur.archlinux.org/packages?SeB=m&K=musiclover) to see the list of packages I maintain.
+  I maintain a bunch of packages in the Arch User Repository, mostly GNOME-related software. Click [here](https://aur.archlinux.org/packages?SeB=m&K=bordam) to see the list of packages I maintain.
 </div>
 
 ***
@@ -59,7 +59,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
 
 
 <!--
-**musiclover382/musiclover382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bordam/bordam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

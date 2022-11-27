@@ -39,6 +39,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
       <li><a href="https://github.com/eneshecan/whatsapp-for-linux">Whatsapp for Linux</a></li>
       <li><a href="https://github.com/nlogozzo/NickvisionMoney">Money</a></li>
       <li><a href="https://github.com/yattee/yattee">Yattee</a></li>
+      <li><a href="https://gitlab.com/posidon_software/paper">Paper</a></li>
     </ul>
 </details>
 </div>

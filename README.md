@@ -1,8 +1,6 @@
-<img align="right" width="200" height="283" src="https://i.imgur.com/YvW9Elu.png" alt="Profile Picture">
+# Hi everyone!
 
-# Hello Internet! 🌱
-
-I'm a 🏫 High School student from 📍 Milan, Italy and I'm passionate about 🔓 FOSS. In particular, I'm a fan of the 👣 GNOME desktop.
+I'm a High School student from Milan, Italy and I'm passionate about FOSS. In particular, I'm a fan of the 👣GNOME desktop.
 
 
 I can't code so, as a member of The Community, I try to do by part in other ways.

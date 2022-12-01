@@ -1,6 +1,6 @@
 # Hi everyone!
 
-I'm a High School student from Milan, Italy and I'm passionate about FOSS. In particular, I'm a fan of the 👣GNOME desktop.
+I'm a High School student from Milan and I'm passionate about FOSS. In particular, I'm a fan of the 👣GNOME desktop.
 
 
 I can't code so, as a member of The Community, I try to do by part in other ways.
@@ -56,17 +56,3 @@ I can't code so, as a member of The Community, I try to do by part in other ways
 - Send me an email at [mattiagiovanni.borda@icloud.com](mailto:mattiagiovanni.borda@icloud.com)
 - Reach me out on Discord @ borsa#4597
 - DM me on Reddit! https://www.reddit.com/user/freetoilet
-
-
-<!--
-**bordam/bordam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->

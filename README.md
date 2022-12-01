@@ -56,4 +56,5 @@ I can't code so, as a member of The Community, I try to do by part in other ways
 ## 📫 Contact me
 - Send me an email at [mattiagiovanni.borda@icloud.com](mailto:mattiagiovanni.borda@icloud.com)
 - Reach me out on Discord @ borsa#4597
+- Send me a message on Matrix @bordam:matrix.org
 - DM me on Reddit! https://www.reddit.com/user/freetoilet

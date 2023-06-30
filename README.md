@@ -8,7 +8,7 @@ I can't code so, as a member of The Community, I try to do by part in other ways
 ***
 <div>
   
-  <img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux logo">
+  <img align="left" width="100" height="100" src="https://www.svgrepo.com/show/349296/arch-linux.svg" alt="Arch Linux logo">
   
 
   ### Arch User Repository
